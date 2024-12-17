@@ -3,7 +3,7 @@
 
 
 
-For some repositories, their may be errors during downloading as below: 
+For some repositories, there may be errors during downloading as below: 
 
 ```{text}
 OSError: Consistency check failed: file should be of size 11191551 but has size 15398470 ((…)sionsources-121120210508-phpapp02_95.pdf).

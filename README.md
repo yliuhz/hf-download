@@ -27,3 +27,5 @@ Normally, one could use the script `scripts/download.sh`.
 ```{bash}
 bash scripts/download.sh <repo_id> <repo_type>
 ```
+
+The downloaded files can be found in `~/.cache/huggingface/hub`.
